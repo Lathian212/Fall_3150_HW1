@@ -1,0 +1,36 @@
+Question 1:
+Read the Brooklyn College academic integrity guidelines, and write a 
+statement attesting to the fact that you read, understood and agree to all 
+of it.
+
+Question 2:
+In a loop, read radiuses from a user. Calculate the area of a circle using 
+the formula PI*r^2. Use the pow function, and the PI constant in the Math 
+class. Pick your data types wisely. Exit when the user presses ^d. Show 
+your output.
+
+Question 3:
+Write a program that randomly generates an integer between 1 & 12, and 
+displays the English name of that month. Run the program & show the 
+output.
+
+Question 4:
+Feed a file that contains numbers into your program using command line 
+redirection. Have your program read & print the file on the screen.
+
+Question 5:
+Write a program that reads three 2D points A, B, and C from the user. 
+Next, calculate the length of each side of the triangle using the 
+distance formula: sqrt((x2-x1)^2+(y2-y1)^2). Finally, determine if it's a 
+real triangle. For a triangle to be real, the sum of any two sides needs 
+to be greater than the third. Make sure your output has some real and at 
+least one fake triangle.
+
+Question 6:
+Write a program that prompts the user to enter the center coordinates and 
+radiuses of two circles. Determine whether the are
+ 
+1) separate from each other
+2) touching each other
+3) overlapping each other, 
+4) or completely within one another. Test each case and show the output.

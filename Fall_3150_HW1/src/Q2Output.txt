@@ -1,0 +1,21 @@
+Please enter a double for a radius of a circle or ctrl-d to end:2.2
+The area of a circle with radius = 2.20 is 15.21
+Please enter a double for a radius of a circle or ctrl-d to end:55.55
+The area of a circle with radius = 55.55 is 9694.33
+Please enter a double for a radius of a circle or ctrl-d to end:-1
+You entered an illegal value for circle!
+Please enter a double for a radius of a circle or ctrl-d to end:22
+The area of a circle with radius = 22.00 is 1520.53
+Please enter a double for a radius of a circle or ctrl-d to end:0
+You entered an illegal value for circle!
+Please enter a double for a radius of a circle or ctrl-d to end:-33
+You entered an illegal value for circle!
+Please enter a double for a radius of a circle or ctrl-d to end:-3.3
+You entered an illegal value for circle!
+Please enter a double for a radius of a circle or ctrl-d to end:44.4
+The area of a circle with radius = 44.40 is 6193.21
+Please enter a double for a radius of a circle or ctrl-d to end:Exception in thread "main" java.util.NoSuchElementException
+	at java.util.Scanner.throwFor(Scanner.java:862)
+	at java.util.Scanner.next(Scanner.java:1485)
+	at java.util.Scanner.nextDouble(Scanner.java:2413)
+	at Q2AreaOfCircle.main(Q2AreaOfCircle.java:17)

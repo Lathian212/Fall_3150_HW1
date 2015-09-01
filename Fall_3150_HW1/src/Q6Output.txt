@@ -1,0 +1,24 @@
+For Circle 1: enter radius: 5
+For Circle 1: enter x cordinate, followed by a space, y cordinate then enter: 0 0
+For Circle 2: enter radius: 1
+For Circle 2: enter x cordinate, followed by a space, y cordinate then enter: 8 8
+The two circles are not touching
+Enter x to terminate or y to continue: y
+For Circle 1: enter radius: 10
+For Circle 1: enter x cordinate, followed by a space, y cordinate then enter: 0 0
+For Circle 2: enter radius: 10
+For Circle 2: enter x cordinate, followed by a space, y cordinate then enter: 0 0
+The two circles are superimposed, touching each other
+Enter x to terminate or y to continue: y
+For Circle 1: enter radius: 10
+For Circle 1: enter x cordinate, followed by a space, y cordinate then enter: 2 2
+For Circle 2: enter radius: 1
+For Circle 2: enter x cordinate, followed by a space, y cordinate then enter: 3 3
+The smaller circle is completely inside the bigger.
+Enter x to terminate or y to continue: y
+For Circle 1: enter radius: 10
+For Circle 1: enter x cordinate, followed by a space, y cordinate then enter: 0 0
+For Circle 2: enter radius: 5
+For Circle 2: enter x cordinate, followed by a space, y cordinate then enter: 10 0
+The two circles overlap
+Enter x to terminate or y to continue: x

@@ -1,0 +1,46 @@
+Enter the 1 of 3 pairs of x, y points of a triangle separated by a space: 0 0
+Enter the 2 of 3 pairs of x, y points of a triangle separated by a space: 0 0
+Enter the 3 of 3 pairs of x, y points of a triangle separated by a space: 0 0
+The length of the sides of the triangle you just entered are as follows:
+0.00
+0.00
+0.00
+
+ The points you entered are NOT a triangle becausethe sum of two of the sides is not greater then the third.
+Enter the 1 of 3 pairs of x, y points of a triangle separated by a space: 0 0
+Enter the 2 of 3 pairs of x, y points of a triangle separated by a space: 0 1
+Enter the 3 of 3 pairs of x, y points of a triangle separated by a space: 0 4
+The length of the sides of the triangle you just entered are as follows:
+1.00
+3.00
+4.00
+
+ The points you entered are NOT a triangle becausethe sum of two of the sides is not greater then the third.
+Enter the 1 of 3 pairs of x, y points of a triangle separated by a space: 0 0
+Enter the 2 of 3 pairs of x, y points of a triangle separated by a space: 0 5
+Enter the 3 of 3 pairs of x, y points of a triangle separated by a space: 0 -3
+The length of the sides of the triangle you just entered are as follows:
+3.00
+5.00
+8.00
+
+ The points you entered are NOT a triangle becausethe sum of two of the sides is not greater then the third.
+Enter the 1 of 3 pairs of x, y points of a triangle separated by a space: 0 0
+Enter the 2 of 3 pairs of x, y points of a triangle separated by a space: 0 5
+Enter the 3 of 3 pairs of x, y points of a triangle separated by a space: 5 5
+The length of the sides of the triangle you just entered are as follows:
+5.00
+5.00
+7.07
+
+ The points you entered are a triangle because the sum of any two sides isgreater then the third.
+Enter the 1 of 3 pairs of x, y points of a triangle separated by a space: 0 0
+Enter the 2 of 3 pairs of x, y points of a triangle separated by a space: 10 0
+Enter the 3 of 3 pairs of x, y points of a triangle separated by a space: 10 -5
+The length of the sides of the triangle you just entered are as follows:
+5.00
+10.00
+11.18
+
+ The points you entered are a triangle because the sum of any two sides isgreater then the third.
+
